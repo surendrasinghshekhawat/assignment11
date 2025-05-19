@@ -1,0 +1,24 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.box{
+    width: 300px;
+    height: 250px;
+    background-color: purple;
+}
+.parent1{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 30px;
+}
+.parent2{
+    display: flex;
+     align-items: center;
+    justify-content: space-evenly;
+    margin: 30px;
+
+}
+
